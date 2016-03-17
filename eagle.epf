@@ -1,0 +1,31 @@
+[Eagle]
+Version="06 05 00"
+Platform="Windows"
+Serial="62191E841E-LSR-WLM-1EL"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/BeagleSNES.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/NBitWonder.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/atmel.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/frames.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/m-pad-2.1.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/nintendo/nescart.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/nintendo/snescart.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/nintendo/nintendo.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/adafruit/adafruit.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/nintendo/snes.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/SparkFun-Eagle-Libraries-master/SparkFun-Electromechanical.lbr"
+UsedLibrary="BeagleSNES.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="36 26 1243 567"
+State=0
+Number=0
+
+[Desktop]
+Screen="1366 768"
+Window="Win_1"
